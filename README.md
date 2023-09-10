@@ -1,4 +1,4 @@
-# Iosevka Term SS11 WebFont 26.3.2
+# Iosevka Term SS11 WebFont 26.3.3
 
 ## How to use
 
